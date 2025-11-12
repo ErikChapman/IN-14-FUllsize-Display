@@ -101,6 +101,23 @@ GenerateClassCluster=0
 DocumentUniqueId=NUIQWFLF
 
 [Document4]
+DocumentPath=..\..\..\..\Eric\Desktop\SOP127P1030X245-18N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WEKBJOSI
+
+[Document5]
 DocumentPath=..\..\..\..\Eric\Desktop\SAMTEC-TMM-107-01-X-S\SAMTEC-TMM-107-01-X-S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PUMGGKOY
 
-[Document5]
+[Document6]
 DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BPJFQDOY
 
-[Document6]
+[Document7]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
