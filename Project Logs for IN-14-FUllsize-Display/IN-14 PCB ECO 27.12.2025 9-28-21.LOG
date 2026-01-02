@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VCC5 Pin=C18-1
+Removed Pin From Net: NetName=GND Pin=C18-2
+Change Component Footprint: Designator=C18 Old Footprint=WCAP-ATUL_D10H25 New Footprint=FP-107AXZ050M-MFG
+Change Component Comment : Designator=C18 Old Comment=100uF 100V New Comment=100uF 50V
+Change Managed Component Library Link : Designator=C18 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E822CECD-9F16-4455-8A96-608801DFE012 New ItemGUID=9363D680-1A81-4AE5-A784-8AA0D7DC0595 Old RevisionGUID=DC8FA2F2-BDF1-452D-80E0-68F4C8675183 New RevisionGUID=610DBE88-CCED-483F-B292-AC306C586F97
+Change component parameters: Designator = "C18" ("C18"); Footprint = "WCAP-ATUL_D10H25"; UniqueID = "\DCMWJAMD" ("\DCMWJAMD")
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=VCC5 Pin=C18-2
+Add Pin To Net: Unknown Pin: Pin PW1-0
+Add Pin To Net: Unknown Pin: Pin PW1-19
+Add Pin To Net: Unknown Pin: Pin PW2-0
+Add Pin To Net: Unknown Pin: Pin PW2-19

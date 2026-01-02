@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=GND Pin=C18-2
+Removed Member From Class: ClassName=Power Member=C18
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=GND Pin=D8-2
+Added Pin To Net: NetName=GND Pin=D9-2
+Added Pin To Net: NetName=GND Pin=L3-1
+Added Pin To Net: NetName=GND Pin=POWER1-1
+Add Pin To Net: Unknown Pin: Pin PW1-0
+Added Pin To Net: NetName=GND Pin=PW1-9
+Add Pin To Net: Unknown Pin: Pin PW1-19
+Add Pin To Net: Unknown Pin: Pin PW2-0
+Added Pin To Net: NetName=GND Pin=PW2-9
+Add Pin To Net: Unknown Pin: Pin PW2-19
+Added Pin To Net: NetName=GND Pin=U1-24
+Added Pin To Net: NetName=GND Pin=U2-24
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U5-2

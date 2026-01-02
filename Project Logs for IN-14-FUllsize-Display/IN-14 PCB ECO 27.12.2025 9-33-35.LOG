@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=VCC5 Pin=C?-1
+Removed Pin From Net: NetName=VCC5 Pin=C?-2
+Removed Member From Class: ClassName=Power Member=C?
+Change Component Footprint: Designator=C18 Old Footprint=FP-107AXZ050M-MFG New Footprint=WCAP-ATG5_D5H11
+Change Managed Component Library Link : Designator=C18 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=9363D680-1A81-4AE5-A784-8AA0D7DC0595 New ItemGUID=11610183-5E6C-4352-A64D-C9C0978DE908 Old RevisionGUID=610DBE88-CCED-483F-B292-AC306C586F97 New RevisionGUID=574FC0FF-C29A-47EC-8F9A-082DC4C69AE6
+Change component parameters: Designator = "C18" ("C18"); Footprint = "FP-107AXZ050M-MFG"; UniqueID = "\MMIOXYKT" ("\MMIOXYKT")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "12.4968mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2.0066mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Leakage Current"; Value = "10µA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "11mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Life (Hours)"; Value = "2000hours"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape & Box (TB)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Polar"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "105mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin PW1-0
+Add Pin To Net: Unknown Pin: Pin PW1-19
+Add Pin To Net: Unknown Pin: Pin PW2-0
+Add Pin To Net: Unknown Pin: Pin PW2-19

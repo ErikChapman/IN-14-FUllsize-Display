@@ -1,0 +1,26 @@
+Added Component: Designator=C?(WCAP-ATG5_D5H11)
+Add component (AddParameter): Name = "Capacitance"; Value = "100µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "12.4968mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.0066mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "10µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life (Hours)"; Value = "2000hours"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape & Box (TB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Polar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "105mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC5 Pin=C?-1
+Added Pin To Net: NetName=VCC5 Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin PW1-0
+Add Pin To Net: Unknown Pin: Pin PW1-19
+Add Pin To Net: Unknown Pin: Pin PW2-0
+Add Pin To Net: Unknown Pin: Pin PW2-19
+Added Member To Class: ClassName=Power Member=Component C? 860020272005
