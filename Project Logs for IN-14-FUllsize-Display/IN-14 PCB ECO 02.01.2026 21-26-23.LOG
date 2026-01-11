@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Member From Class: ClassName=Power Member=C111
+Removed Member From Class: ClassName=Power Member=C222
+Change Component Comment : Designator=C222 Old Comment=EEUFC1E471 New Comment=470uF 25v
+Change Component Designator: OldDesignator=C222 NewDesignator=C17
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Add Pin To Net: Unknown Pin: Pin PW1-0
+Add Pin To Net: Unknown Pin: Pin PW1-19
+Add Pin To Net: Unknown Pin: Pin PW2-0
+Add Pin To Net: Unknown Pin: Pin PW2-19

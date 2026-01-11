@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=CN2-1
+Removed Pin From Net: NetName=GND Pin=D4-2
+Removed Pin From Net: NetName=GND Pin=D5-2
+Removed Pin From Net: NetName=GND Pin=D6-2
+Removed Pin From Net: NetName=GND Pin=D7-2
+Removed Pin From Net: NetName=GND Pin=D8-2
+Removed Pin From Net: NetName=GND Pin=D9-2
+Removed Pin From Net: NetName=GND Pin=L3-1
+Removed Pin From Net: NetName=GND Pin=PW1-9
+Removed Pin From Net: NetName=GND Pin=PW2-9
+Removed Pin From Net: NetName=GND Pin=U1-24
+Removed Pin From Net: NetName=GND Pin=U2-24
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-3
+Removed Pin From Net: NetName=GND Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Pin From Net: NetName=GND Pin=U5-2
+Added Component: Designator=C18(WCAP-ATLL_D8H11.5)
+Add component (AddParameter): Name = "Capacitance"; Value = "100µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "13.0048mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "280m?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "3.5052mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "50µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life (Hours)"; Value = "4000hours"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "53914491"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape & Box (TB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Polar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "540mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C18-2
+Add Pin To Net: Unknown Pin: Pin PW1-0
+Add Pin To Net: Unknown Pin: Pin PW1-19
+Add Pin To Net: Unknown Pin: Pin PW2-0
+Add Pin To Net: Unknown Pin: Pin PW2-19
+Added Pin To Net: NetName=VCC5 Pin=C4-1
+Added Pin To Net: NetName=VCC5 Pin=C5-1
+Added Pin To Net: NetName=VCC5 Pin=C9-1
+Added Pin To Net: NetName=VCC5 Pin=C12-1
+Added Pin To Net: NetName=VCC5 Pin=C17-2
+Added Pin To Net: NetName=VCC5 Pin=C18-1
+Added Pin To Net: NetName=VCC5 Pin=C20-1
+Added Pin To Net: NetName=VCC5 Pin=CN2-1
+Added Pin To Net: NetName=VCC5 Pin=D4-2
+Added Pin To Net: NetName=VCC5 Pin=D5-2
+Added Pin To Net: NetName=VCC5 Pin=D6-2
+Added Pin To Net: NetName=VCC5 Pin=D7-2
+Added Pin To Net: NetName=VCC5 Pin=D8-2
+Added Pin To Net: NetName=VCC5 Pin=D9-2
+Added Pin To Net: NetName=VCC5 Pin=L3-1
+Added Pin To Net: NetName=VCC5 Pin=PW1-9
+Added Pin To Net: NetName=VCC5 Pin=PW2-9
+Added Pin To Net: NetName=VCC5 Pin=U1-24
+Added Pin To Net: NetName=VCC5 Pin=U2-24
+Added Pin To Net: NetName=VCC5 Pin=U3-1
+Added Pin To Net: NetName=VCC5 Pin=U3-3
+Added Pin To Net: NetName=VCC5 Pin=U4-1
+Added Pin To Net: NetName=VCC5 Pin=U4-3
+Added Pin To Net: NetName=VCC5 Pin=U5-2
+Added Net: Name=VCC5
+Added Member To Class: ClassName=Power Member=Component C18 100uF 50V
+Added Rule: Name=Schematic Supply Nets_1
