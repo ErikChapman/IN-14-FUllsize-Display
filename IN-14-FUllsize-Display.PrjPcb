@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NUIQWFLF
 
 [Document4]
-DocumentPath=..\..\..\..\Eric\Desktop\SOP127P1030X245-18N.PcbLib
+DocumentPath=SOP127P1030X245-18N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -118,7 +118,24 @@ GenerateClassCluster=0
 DocumentUniqueId=WEKBJOSI
 
 [Document5]
-DocumentPath=..\..\..\..\Eric\Desktop\SAMTEC-TMM-107-01-X-S\SAMTEC-TMM-107-01-X-S.PcbLib
+DocumentPath=..\Eric\Desktop\SOP127P1030X245-18N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WEKBJOSI
+
+[Document6]
+DocumentPath=..\Eric\Desktop\SAMTEC-TMM-107-01-X-S\SAMTEC-TMM-107-01-X-S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PUMGGKOY
 
-[Document6]
+[Document7]
 DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BPJFQDOY
 
-[Document7]
+[Document8]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XTHZOTEH
 
-[Document8]
+[Document9]
 DocumentPath=Lamp.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KHYBEGJB
 
-[Document9]
+[Document10]
 DocumentPath=IN-14-FUllsize-Display.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document11]
 DocumentPath=IN-14.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
