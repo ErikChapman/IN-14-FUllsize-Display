@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=IN-8-2
+Removed Pin From Net: NetName=GND Pin=Q18-2
+Removed Pin From Net: NetName=VCC180 Pin=Q18-4
+Removed Member From Class: ClassName=Lamp Member=IN-7
+Removed Member From Class: ClassName=Lamp Member=IN-8
+Removed Member From Class: ClassName=Lamp Member=Q18
