@@ -1,3 +1,6 @@
-Features:
-- ESP32-WROOM-32U (16MB) microcontroller
-- 6 RGB LEDs
+## Особенности
+
+- Дисплей
+- Датчики
+- Микроконтроллер ESP32-WROOM-32U (16MB)
+- 6 RGB светодиодов
