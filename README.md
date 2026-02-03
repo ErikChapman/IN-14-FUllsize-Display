@@ -33,7 +33,6 @@
 
 ## 📸 Превью
 
-Превью макетов и визуализация доступны в папке `__Previews/`
 <img width="1269" height="606" alt="image" src="https://github.com/user-attachments/assets/f3ff560a-51c3-414d-86fa-358828131263" />
 <img width="1417" height="643" alt="image" src="https://github.com/user-attachments/assets/c316249f-90b3-40c2-88c3-461949d19eeb" />
 <img width="1159" height="476" alt="image" src="https://github.com/user-attachments/assets/2cd30982-976f-42e1-bc8f-576ccbd08aef" />
