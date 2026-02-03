@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [IN-14-FUllsize-Display.PrjPcb]
+   Generated File[IN-14.TXT]
+   Generated File[IN-14.LDP]
+   Generated File[IN-14.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 22:03:40 On 01.02.2026
