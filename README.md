@@ -37,8 +37,8 @@
 
 ## 📸 Превью проекта
 
-| | | |
-| ![](https://github.com/user-attachments/assets/f3ff560a-51c3-414d-86fa-358828131263) | ![](https://github.com/user-attachments/assets/c316249f-90b3-40c2-88c3-461949d19eeb) | ![](https://github.com/user-attachments/assets/2cd30982-976f-42e1-bc8f-576ccbd08aef) |
+
+![](https://github.com/user-attachments/assets/f3ff560a-51c3-414d-86fa-358828131263)  ![](https://github.com/user-attachments/assets/c316249f-90b3-40c2-88c3-461949d19eeb)  ![](https://github.com/user-attachments/assets/2cd30982-976f-42e1-bc8f-576ccbd08aef) 
 
 ---
 
