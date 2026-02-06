@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="918" height="515" alt="image" src="https://github.com/user-attachments/assets/c3def975-86fc-4351-9fa8-bca152c25f1d" />
+<img src="https://github.com/user-attachments/assets/c3def975-86fc-4351-9fa8-bca152c25f1d" alt="IN-14 Fullsize Display" width="600">
 
 **Часы на газоразрядных индикаторах IN-14 с использованием TFT дисплея и датчиками окружающей среды**
 
@@ -27,7 +27,7 @@
 ### ✨ Ключевые особенности
 
 - 🔴 **Газоразрядные индикаторы IN-14** — классические советские лампы с тёплым оранжевым свечением
-- 📺 **TFT-дисплей** — дополнительный экран для отоб��ажения информации и управления
+- 📺 **TFT-дисплей** — дополнительный экран для отображения информации и управления
 - 🌡️ **Датчик BMP280** — измерение температуры и атмосферного давления
 - 💧 **Датчик SHT30-DIS-B2.5KS** — точное измерение влажности и температуры
 - 💡 **6 RGB-светодиодов** — подсветка индикаторов с возможностью настройки цвета
@@ -43,13 +43,32 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/6cf544ae-efce-4b3d-a8eb-26e8f8d92e4c" alt="PCB Top Layer" width="400">
+<br><b>Top Layer</b>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/79a8452c-baa4-49b8-98a8-aab6fe60a002" alt="PCB Bottom Layer" width="400">
+<br><b>Bottom Layer</b>
+</td>
+</tr>
+</table>
 
-<img src="https://github.com/user-attachments/assets/6cf544ae-efce-4b3d-a8eb-26e8f8d92e4c" alt="PCB Top Layer" width="700">
-<img src="https://github.com/user-attachments/assets/79a8452c-baa4-49b8-98a8-aab6fe60a002" alt="PCB Bottom Layer" width="700">
-
-<img src="https://github.com/user-attachments/assets/f3ff560a-51c3-414d-86fa-358828131263" width="230">
-<img src="https://github.com/user-attachments/assets/c316249f-90b3-40c2-88c3-461949d19eeb" width="230">
-<img src="https://github.com/user-attachments/assets/2cd30982-976f-42e1-bc8f-576ccbd08aef" width="230">
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/f3ff560a-51c3-414d-86fa-358828131263" width="220">
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/c316249f-90b3-40c2-88c3-461949d19eeb" width="220">
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/2cd30982-976f-42e1-bc8f-576ccbd08aef" width="220">
+</td>
+</tr>
+</table>
 
 </div>
 
