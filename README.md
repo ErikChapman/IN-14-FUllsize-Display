@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/IMAGE_1_PLACEHOLDER" alt="IN-14 Fullsize Display" width="600">
+<img src="<img width="918" height="515" alt="image" src="https://github.com/user-attachments/assets/c3def975-86fc-4351-9fa8-bca152c25f1d" />" width="600">
 
 **Часы на газоразрядных индикаторах IN-14 с использованием TFT дисплея и датчиками окружающей среды**
 
