@@ -43,8 +43,9 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/IMAGE_3_PLACEHOLDER" alt="PCB Top Layer" width="700">
-<img src="https://github.com/user-attachments/assets/IMAGE_2_PLACEHOLDER" alt="PCB Bottom Layer" width="700">
+
+<img src="https://github.com/user-attachments/assets/6cf544ae-efce-4b3d-a8eb-26e8f8d92e4c" alt="PCB Top Layer" width="700">
+<img src="https://github.com/user-attachments/assets/79a8452c-baa4-49b8-98a8-aab6fe60a002" alt="PCB Bottom Layer" width="700">
 
 <img src="https://github.com/user-attachments/assets/f3ff560a-51c3-414d-86fa-358828131263" width="230">
 <img src="https://github.com/user-attachments/assets/c316249f-90b3-40c2-88c3-461949d19eeb" width="230">
