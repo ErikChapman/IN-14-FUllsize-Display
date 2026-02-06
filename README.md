@@ -1,3 +1,252 @@
+[![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](#english)
+[![Русский](https://img.shields.io/badge/Язык-Русский-red?style=for-the-badge)](#русский)
+
+---
+
+<details id="english" open>
+<summary><h2>🇬🇧 English</h2></summary>
+
+# 🕰️ IN-14 Fullsize Display
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/c3def975-86fc-4351-9fa8-bca152c25f1d" alt="IN-14 Fullsize Display" width="600">
+
+**Nixie tube clock with IN-14 indicators using TFT display and environmental sensors**
+
+[![Status](https://img.shields.io/badge/PCB-✅_Ready-brightgreen?style=for-the-badge)](#-pcb)
+[![Status](https://img.shields.io/badge/Case-✅_Ready-brightgreen?style=for-the-badge)](#-case)
+[![Status](https://img.shields.io/badge/Code-🚧_In_Development-orange?style=for-the-badge)](#-code)
+
+</div>
+
+---
+
+## 📋 About the Project
+
+A comprehensive open-source project for creating a desktop clock using classic Soviet nixie tubes **IN-14 (ИН-14)**, complemented with a TFT screen and environmental sensors. The project consists of three key parts that assemble into a single device:
+
+| Component | Description | Status |
+|:---------:|-------------|:------:|
+| 🔌 **PCB** | Electrical schematic and PCB in Altium Designer | ✅ Ready |
+| 🏗️ **Case** | 3D case model for printing/manufacturing | ✅ Ready |
+| 💻 **Code** | Firmware and software | 🚧 In Development |
+
+### ✨ Key Features
+
+- 🔴 **IN-14 Nixie Tubes** — classic Soviet tubes with warm orange glow
+- 📺 **TFT Display** — additional screen for information display and control
+- 🌡️ **BMP280 Sensor** — temperature and atmospheric pressure measurement
+- 💧 **SHT30-DIS-B2.5KS Sensor** — precise humidity and temperature measurement
+- 💡 **6 RGB LEDs** — indicator backlighting with customizable colors
+
+---
+
+## 🔌 PCB
+
+<details>
+<summary><b>📐 Expand — Schematics, PCB and Manufacturing Files</b></summary>
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/6cf544ae-efce-4b3d-a8eb-26e8f8d92e4c" alt="PCB Top Layer" width="400">
+<br><b>Top Layer</b>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/79a8452c-baa4-49b8-98a8-aab6fe60a002" alt="PCB Bottom Layer" width="400">
+<br><b>Bottom Layer</b>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/f3ff560a-51c3-414d-86fa-358828131263" width="220">
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/c316249f-90b3-40c2-88c3-461949d19eeb" width="220">
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/2cd30982-976f-42e1-bc8f-576ccbd08aef" width="220">
+</td>
+</tr>
+</table>
+
+</div>
+
+### Schematic Modules
+
+| File | Purpose |
+|------|---------|
+| `Main_Logic.SchDoc` | Main logic and display control |
+| `Power.SchDoc` | Power supply and voltage stabilization |
+| `Lamp.SchDoc` | IN-14 nixie tube control |
+
+### PCB
+
+| File | Purpose |
+|------|---------|
+| `IN-14.PcbDoc` | Main printed circuit board |
+| `PcbLib1.PcbLib` | Footprint library #1 |
+| `PcbLib2.PcbLib` | Footprint library #2 |
+| `SOP127P1030X245-18N.PcbLib` | Component package library |
+
+### Component Libraries
+
+| File | Purpose |
+|------|---------|
+| `Schlib1.SchLib` | Schematic symbol library |
+| `UGO.SchLib` / `UGO-1.SchLib` | Conventional graphic designations |
+| `SAMTEC-TMM-107-01-X-S.LibPkg` | SAMTEC connector library package |
+
+### Manufacturing Files
+
+| Resource | Location |
+|----------|----------|
+| 📦 **Gerber Files** | [`Project Outputs for IN-14-FUllsize-Display/`](Project%20Outputs%20for%20IN-14-FUllsize-Display/) |
+
+### 🔧 How to Use
+
+1. Open the project `IN-14-FUllsize-Display.PrjPcb` in **Altium Designer**
+2. Start with `Main_Logic.SchDoc` to understand the logic
+3. For manufacturing, use Gerber files from the `Project Outputs for IN-14-FUllsize-Display/` folder
+
+</details>
+
+---
+
+## 🏗️ Case
+
+<details>
+<summary><b>📦 Expand — 3D Case Model</b></summary>
+
+<br>
+
+### 3D Case Model
+
+The case is designed in Autodesk Fusion 360 and is available in two ways:
+
+| Method | Link |
+|--------|------|
+| 🌐 **Online View** | [Open in Autodesk Viewer (A360)](https://a360.co/46kFfag) |
+| 📥 **Download Files** | Folder [`case model/`](case%20model/) in the repository |
+
+### 🔧 How to Use
+
+1. For quick preview — open the [online model on A360](https://a360.co/46kFfag)
+2. For editing — download files from the `case model/` folder and open in Fusion 360
+3. For 3D printing — export the model to STL/STEP from Fusion 360
+
+</details>
+
+---
+
+## 💻 Code
+
+<details>
+<summary><b>⚡ Expand — Firmware and Software</b></summary>
+
+<br>
+
+### 🚧 In Development
+
+This section is currently under development. In the future, it will include:
+
+- 📟 **Microcontroller Firmware** — indicator and sensor control
+- 🕐 **Display Logic** — clock, temperature, humidity, pressure
+- 📺 **TFT Display Driver** — information output to additional screen
+- 🌐 **Network Functions** — time synchronization (NTP) and more
+- ⚙️ **Configuration** — operating mode settings
+
+> 📌 *Stay tuned for repository updates!*
+
+</details>
+
+---
+
+## 📊 Technical Specifications
+
+| Parameter | Value |
+|-----------|-------|
+| **Indicators** | IN-14 (ИН-14) Nixie Tubes |
+| **Backlighting** | 6 RGB LEDs |
+| **Additional Display** | TFT |
+| **Sensors** | BMP280, SHT30-DIS-B2.5KS |
+| **CAD (PCB)** | Altium Designer |
+| **CAD (Case)** | Autodesk Fusion 360 |
+| **Output Files** | Gerber, 3D models |
+
+---
+
+## 📚 Documentation and Datasheets
+
+<details>
+<summary><b>📄 Expand — Component Documentation Links</b></summary>
+
+<br>
+
+### 🧠 Microcontroller
+
+| Component | Description | Documentation |
+|-----------|-------------|:-------------:|
+| **ESP32-WROOM-32U (16MB)** | Wi-Fi + Bluetooth microcontroller | [📄 Datasheet](https://static.chipdip.ru/lib/789/DOC015789371.pdf) |
+
+### 📺 Display
+
+| Component | Description | Documentation |
+|-----------|-------------|:-------------:|
+| **2.25" ST7789 TFT** | TFT display for information output | [🛒 Product Page](https://aliexpress.ru/item/1005009024495784.html?sku_id=12000047620457684&spm=a2g2w.productlist.search_results.7.7e2846db5Jg2tP) |
+
+### ⚡ Logic and Drivers
+
+| Component | Description | Documentation |
+|-----------|-------------|:-------------:|
+| **CD74HC4514EN** | 4-to-16 line decoder/demultiplexer | [📄 Datasheet](https://www.silicon-ark.co.uk/datasheets/mc74hc4514n-datasheet-motorola.pdf) |
+| **TD62783AFG** | 8-channel high-voltage output driver | [📄 Datasheet](https://docs.rs-online.com/bc35/0900766b80811071.pdf) |
+
+### 🌡️ Sensors
+
+| Component | Description | Documentation |
+|-----------|-------------|:-------------:|
+| **SHT30-DIS-B2.5KS** | Temperature and humidity sensor | [📄 Datasheet](https://sensirion.com/media/documents/213E6A3B/63A5A569/Datasheet_SHT3x_DIS.pdf) |
+| **BMP280** | Temperature and atmospheric pressure sensor | [📄 Datasheet](https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmp280-ds001.pdf) |
+
+### 🔋 Power
+
+| Component | Description | Documentation |
+|-----------|-------------|:-------------:|
+| **LM3671MF-ADJ/NOPB** | Step-down DC-DC converter | [📄 Datasheet](https://www.ti.com/lit/ds/symlink/lm3671.pdf) |
+| **MAX1771** | Step-up DC-DC converter for high-voltage tube power | [📄 Reference Design](https://9zip.ru/vintage/usb_nixie_power_supply.htm) |
+
+### 💡 Backlighting
+
+| Component | Description | Documentation |
+|-----------|-------------|:-------------:|
+| **LED RGB CLEAR 4SMD** | RGB LEDs for indicator backlighting | [🛒 Product Page](https://aliexpress.ru/item/1005005890554477.html?sku_id=12000034724821714&spm=a2g2w.productlist.search_results.1.6aa154bfwtVn8v) |
+
+</details>
+
+---
+
+<div align="center">
+
+*Made with ❤️ and nixie tubes*
+
+</div>
+
+</details>
+
+---
+
+<details id="русский">
+<summary><h2>🇷🇺 Русский</h2></summary>
+
 # 🕰️ IN-14 Fullsize Display
 
 <div align="center">
@@ -231,3 +480,5 @@
 *Сделано с ❤️ и газоразрядными лампами*
 
 </div>
+
+</details>
