@@ -1,0 +1,293 @@
+Change Component Designator: OldDesignator=BMP-? NewDesignator=BMP-1
+Change Component Designator: OldDesignator=C9 NewDesignator=C1
+Change Component Designator: OldDesignator=C10 NewDesignator=C2
+Change Component Designator: OldDesignator=C11 NewDesignator=C3
+Change Component Designator: OldDesignator=C12 NewDesignator=C4
+Change Component Designator: OldDesignator=C13 NewDesignator=C5
+Change Component Designator: OldDesignator=C14 NewDesignator=C6
+Change Component Designator: OldDesignator=C15 NewDesignator=C7
+Change Component Designator: OldDesignator=C16 NewDesignator=C8
+Change Component Designator: OldDesignator=C17 NewDesignator=C9
+Change Component Designator: OldDesignator=C18 NewDesignator=C10
+Change Component Designator: OldDesignator=C19 NewDesignator=C11
+Change Component Designator: OldDesignator=C20 NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=CN2 NewDesignator=CN1
+Change Component Designator: OldDesignator=cn? NewDesignator=cn2
+Change Component Designator: OldDesignator=mcu-? NewDesignator=mcu-1
+Change Component Designator: OldDesignator=PW? NewDesignator=PW1
+Change Component Designator: OldDesignator=PW? NewDesignator=PW2
+Change Component Designator: OldDesignator=PW? NewDesignator=PW3
+Change Component Designator: OldDesignator=PW? NewDesignator=PW4
+Change Component Designator: OldDesignator=Q8 NewDesignator=Q9
+Change Component Designator: OldDesignator=Q9 NewDesignator=Q10
+Change Component Designator: OldDesignator=Q10 NewDesignator=Q11
+Change Component Designator: OldDesignator=Q11 NewDesignator=Q12
+Change Component Designator: OldDesignator=Q12 NewDesignator=Q13
+Change Component Designator: OldDesignator=Q13 NewDesignator=Q14
+Change Component Designator: OldDesignator=Q14 NewDesignator=Q15
+Change Component Designator: OldDesignator=Q15 NewDesignator=Q16
+Change Component Designator: OldDesignator=Q16 NewDesignator=Q17
+Change Component Designator: OldDesignator=Q17 NewDesignator=Q18
+Change Component Designator: OldDesignator=Q? NewDesignator=Q8
+Change Component Designator: OldDesignator=Q? NewDesignator=Q19
+Change Component Designator: OldDesignator=Q? NewDesignator=Q20
+Change Component Designator: OldDesignator=Q? NewDesignator=Q21
+Change Component Designator: OldDesignator=Q? NewDesignator=Q22
+Change Component Designator: OldDesignator=Q? NewDesignator=Q23
+Change Component Designator: OldDesignator=Q? NewDesignator=Q24
+Change Component Designator: OldDesignator=Q? NewDesignator=Q25
+Change Component Designator: OldDesignator=Q? NewDesignator=Q26
+Change Component Designator: OldDesignator=Q? NewDesignator=Q27
+Change Component Designator: OldDesignator=Q? NewDesignator=Q28
+Change Component Designator: OldDesignator=Q? NewDesignator=Q29
+Change Component Designator: OldDesignator=R21 NewDesignator=R1
+Change Component Designator: OldDesignator=R22 NewDesignator=R2
+Change Component Designator: OldDesignator=R23 NewDesignator=R3
+Change Component Designator: OldDesignator=R24 NewDesignator=R4
+Change Component Designator: OldDesignator=R25 NewDesignator=R5
+Change Component Designator: OldDesignator=R26 NewDesignator=R6
+Change Component Designator: OldDesignator=R27 NewDesignator=R7
+Change Component Designator: OldDesignator=R28 NewDesignator=R8
+Change Component Designator: OldDesignator=R29 NewDesignator=R9
+Change Component Designator: OldDesignator=R30 NewDesignator=R10
+Change Component Designator: OldDesignator=R31 NewDesignator=R11
+Change Component Designator: OldDesignator=R32 NewDesignator=R12
+Change Component Designator: OldDesignator=R33 NewDesignator=R13
+Change Component Designator: OldDesignator=R34 NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=R? NewDesignator=R35
+Change Component Designator: OldDesignator=R? NewDesignator=R36
+Change Component Designator: OldDesignator=R? NewDesignator=R37
+Change Component Designator: OldDesignator=R? NewDesignator=R38
+Change Component Designator: OldDesignator=R? NewDesignator=R39
+Change Component Designator: OldDesignator=R? NewDesignator=R40
+Change Component Designator: OldDesignator=R? NewDesignator=R41
+Change Component Designator: OldDesignator=R? NewDesignator=R42
+Change Component Designator: OldDesignator=SHT-? NewDesignator=SHT-1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW2
+Change Component Designator: OldDesignator=SW? NewDesignator=SW3
+Change Component Designator: OldDesignator=SW? NewDesignator=SW4
+Change Component Designator: OldDesignator=SW? NewDesignator=SW5
+Change Component Designator: OldDesignator=U3 NewDesignator=U1
+Change Component Designator: OldDesignator=U4 NewDesignator=U2
+Change Component Designator: OldDesignator=U5 NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Change Net Name : Old Net Name=NetC11_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetC19_1 New Net Name=NetC11_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=Netcn?_2 New Net Name=Netcn2_2
+Change Net Name : Old Net Name=Netcn?_3 New Net Name=Netcn2_3
+Change Net Name : Old Net Name=NetPW?_1 New Net Name=NetPW4_1
+Change Net Name : Old Net Name=NetPW?_2 New Net Name=NetPW4_2
+Change Net Name : Old Net Name=NetPW?_3 New Net Name=NetPW4_3
+Change Net Name : Old Net Name=NetPW?_4 New Net Name=NetPW4_4
+Change Net Name : Old Net Name=NetPW?_5 New Net Name=NetPW4_5
+Change Net Name : Old Net Name=NetPW?_6 New Net Name=NetPW4_6
+Change Net Name : Old Net Name=NetPW?_7 New Net Name=NetPW4_7
+Change Net Name : Old Net Name=NetPW?_8 New Net Name=NetPW4_8
+Change Net Name : Old Net Name=NetPW?_11 New Net Name=NetPW4_11
+Change Net Name : Old Net Name=NetPW?_12 New Net Name=NetPW4_12
+Change Net Name : Old Net Name=NetPW?_13 New Net Name=NetPW4_13
+Change Net Name : Old Net Name=NetPW?_14 New Net Name=NetPW4_14
+Change Net Name : Old Net Name=NetPW?_15 New Net Name=NetPW4_15
+Change Net Name : Old Net Name=NetPW?_16 New Net Name=NetPW4_16
+Change Net Name : Old Net Name=NetPW?_17 New Net Name=NetPW4_17
+Change Net Name : Old Net Name=NetPW?_18 New Net Name=NetPW4_18
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ29_1
+Added Pin To Net: NetName=NetPW1_1 Pin=PW1-1
+Added Pin To Net: NetName=NetPW1_1 Pin=U4-11
+Added Net: Name=NetPW1_1
+Added Pin To Net: NetName=NetPW1_2 Pin=PW1-2
+Added Pin To Net: NetName=NetPW1_2 Pin=U4-9
+Added Net: Name=NetPW1_2
+Added Pin To Net: NetName=NetPW1_3 Pin=PW1-3
+Added Pin To Net: NetName=NetPW1_3 Pin=U4-10
+Added Net: Name=NetPW1_3
+Added Pin To Net: NetName=NetPW1_4 Pin=PW1-4
+Added Pin To Net: NetName=NetPW1_4 Pin=U4-8
+Added Net: Name=NetPW1_4
+Added Pin To Net: NetName=NetPW1_5 Pin=PW1-5
+Added Pin To Net: NetName=NetPW1_5 Pin=U4-7
+Added Net: Name=NetPW1_5
+Added Pin To Net: NetName=NetPW1_6 Pin=PW1-6
+Added Pin To Net: NetName=NetPW1_6 Pin=U4-6
+Added Net: Name=NetPW1_6
+Added Pin To Net: NetName=NetPW1_7 Pin=PW1-7
+Added Pin To Net: NetName=NetPW1_7 Pin=U4-5
+Added Net: Name=NetPW1_7
+Added Pin To Net: NetName=NetPW1_8 Pin=PW1-8
+Added Pin To Net: NetName=NetPW1_8 Pin=U4-4
+Added Net: Name=NetPW1_8
+Added Pin To Net: NetName=NetPW1_11 Pin=PW1-11
+Added Pin To Net: NetName=NetPW1_11 Pin=R23-2
+Added Net: Name=NetPW1_11
+Added Pin To Net: NetName=NetPW1_12 Pin=PW1-12
+Added Pin To Net: NetName=NetPW1_12 Pin=R22-2
+Added Net: Name=NetPW1_12
+Added Pin To Net: NetName=NetPW1_13 Pin=PW1-13
+Added Pin To Net: NetName=NetPW1_13 Pin=R21-2
+Added Net: Name=NetPW1_13
+Added Pin To Net: NetName=NetPW1_14 Pin=PW1-14
+Added Pin To Net: NetName=NetPW1_14 Pin=R20-2
+Added Net: Name=NetPW1_14
+Added Pin To Net: NetName=NetPW1_15 Pin=PW1-15
+Added Pin To Net: NetName=NetPW1_15 Pin=R19-2
+Added Net: Name=NetPW1_15
+Added Pin To Net: NetName=NetPW1_16 Pin=PW1-16
+Added Pin To Net: NetName=NetPW1_16 Pin=R18-2
+Added Net: Name=NetPW1_16
+Added Pin To Net: NetName=NetPW1_17 Pin=PW1-17
+Added Pin To Net: NetName=NetPW1_17 Pin=R17-2
+Added Net: Name=NetPW1_17
+Added Pin To Net: NetName=NetPW1_18 Pin=PW1-18
+Added Pin To Net: NetName=NetPW1_18 Pin=R16-2
+Added Net: Name=NetPW1_18
+Added Pin To Net: NetName=NetPW2_1 Pin=PW2-1
+Added Pin To Net: NetName=NetPW2_1 Pin=U4-18
+Added Net: Name=NetPW2_1
+Added Pin To Net: NetName=NetPW2_2 Pin=PW2-2
+Added Pin To Net: NetName=NetPW2_2 Pin=U4-17
+Added Net: Name=NetPW2_2
+Added Pin To Net: NetName=NetPW2_3 Pin=PW2-3
+Added Pin To Net: NetName=NetPW2_3 Pin=U5-11
+Added Net: Name=NetPW2_3
+Added Pin To Net: NetName=NetPW2_4 Pin=PW2-4
+Added Pin To Net: NetName=NetPW2_4 Pin=U5-9
+Added Net: Name=NetPW2_4
+Added Pin To Net: NetName=NetPW2_5 Pin=PW2-5
+Added Pin To Net: NetName=NetPW2_5 Pin=U5-10
+Added Net: Name=NetPW2_5
+Added Pin To Net: NetName=NetPW2_6 Pin=PW2-6
+Added Pin To Net: NetName=NetPW2_6 Pin=U5-8
+Added Net: Name=NetPW2_6
+Added Pin To Net: NetName=NetPW2_7 Pin=PW2-7
+Added Pin To Net: NetName=NetPW2_7 Pin=U5-7
+Added Net: Name=NetPW2_7
+Added Pin To Net: NetName=NetPW2_8 Pin=PW2-8
+Added Pin To Net: NetName=NetPW2_8 Pin=U5-6
+Added Net: Name=NetPW2_8
+Added Pin To Net: NetName=NetPW2_11 Pin=PW2-11
+Added Pin To Net: NetName=NetPW2_11 Pin=R31-2
+Added Net: Name=NetPW2_11
+Added Pin To Net: NetName=NetPW2_12 Pin=PW2-12
+Added Pin To Net: NetName=NetPW2_12 Pin=R30-2
+Added Net: Name=NetPW2_12
+Added Pin To Net: NetName=NetPW2_13 Pin=PW2-13
+Added Pin To Net: NetName=NetPW2_13 Pin=R29-2
+Added Net: Name=NetPW2_13
+Added Pin To Net: NetName=NetPW2_14 Pin=PW2-14
+Added Pin To Net: NetName=NetPW2_14 Pin=R28-2
+Added Net: Name=NetPW2_14
+Added Pin To Net: NetName=NetPW2_15 Pin=PW2-15
+Added Pin To Net: NetName=NetPW2_15 Pin=R27-2
+Added Net: Name=NetPW2_15
+Added Pin To Net: NetName=NetPW2_16 Pin=PW2-16
+Added Pin To Net: NetName=NetPW2_16 Pin=R26-2
+Added Net: Name=NetPW2_16
+Added Pin To Net: NetName=NetPW2_17 Pin=PW2-17
+Added Pin To Net: NetName=NetPW2_17 Pin=R25-2
+Added Net: Name=NetPW2_17
+Added Pin To Net: NetName=NetPW2_18 Pin=PW2-18
+Added Pin To Net: NetName=NetPW2_18 Pin=R24-2
+Added Net: Name=NetPW2_18
+Added Pin To Net: NetName=NetPW3_1 Pin=PW3-1
+Added Pin To Net: NetName=NetPW3_1 Pin=U5-5
+Added Net: Name=NetPW3_1
+Added Pin To Net: NetName=NetPW3_18 Pin=PW3-18
+Added Pin To Net: NetName=NetPW3_18 Pin=R32-2
+Added Net: Name=NetPW3_18
+Added Pin To Net: NetName=NetQ27_1 Pin=Q27-1
+Added Pin To Net: NetName=NetQ27_1 Pin=R9-2
+Added Pin To Net: NetName=NetQ27_1 Pin=R12-1
+Added Net: Name=NetQ27_1
+Added Pin To Net: NetName=NetQ28_1 Pin=Q28-1
+Added Pin To Net: NetName=NetQ28_1 Pin=R10-2
+Added Pin To Net: NetName=NetQ28_1 Pin=R13-1
+Added Net: Name=NetQ28_1
+Added Member To Class: ClassName=Main_Logic Member=Component C13 10uF
+Added Member To Class: ClassName=Main_Logic Member=Component C14 0.1uF
+Added Member To Class: ClassName=Main_Logic Member=Component C15 1uF
+Added Member To Class: ClassName=Main_Logic Member=Component C16 100nF
+Added Member To Class: ClassName=Main_Logic Member=Component C18 100nF
+Added Member To Class: ClassName=Main_Logic Member=Component C19 100nF
+Added Member To Class: ClassName=Main_Logic Member=Component C20 100nF
+Added Member To Class: ClassName=Main_Logic Member=Component C21 100nF
+Added Member To Class: ClassName=Main_Logic Member=Component PW1 TD62783AFG
+Added Member To Class: ClassName=Main_Logic Member=Component PW2 TD62783AFG
+Added Member To Class: ClassName=Main_Logic Member=Component PW4 TD62783AFG
+Added Member To Class: ClassName=Lamp Member=Component Q18 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q19 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q20 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q21 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q22 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q24 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q25 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q26 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q27 IRLML6344
+Added Member To Class: ClassName=Lamp Member=Component Q28 IRLML6344
+Added Member To Class: ClassName=Lamp Member=Component Q29 IRLML6344
+Added Member To Class: ClassName=Main_Logic Member=Component R15 10k
+Added Member To Class: ClassName=Main_Logic Member=Component R16 62
+Added Member To Class: ClassName=Main_Logic Member=Component R17 62
+Added Member To Class: ClassName=Main_Logic Member=Component R18 62
+Added Member To Class: ClassName=Main_Logic Member=Component R19 62
+Added Member To Class: ClassName=Main_Logic Member=Component R20 62
+Added Member To Class: ClassName=Main_Logic Member=Component R21 62
+Added Member To Class: ClassName=Main_Logic Member=Component R22 62
+Added Member To Class: ClassName=Main_Logic Member=Component R23 62
+Added Member To Class: ClassName=Main_Logic Member=Component R24 62
+Added Member To Class: ClassName=Main_Logic Member=Component R25 62
+Added Member To Class: ClassName=Main_Logic Member=Component R26 62
+Added Member To Class: ClassName=Main_Logic Member=Component R27 62
+Added Member To Class: ClassName=Main_Logic Member=Component R28 62
+Added Member To Class: ClassName=Main_Logic Member=Component R29 62
+Added Member To Class: ClassName=Main_Logic Member=Component R30 62
+Added Member To Class: ClassName=Main_Logic Member=Component R31 62
+Added Member To Class: ClassName=Main_Logic Member=Component R32 62
+Added Member To Class: ClassName=Main_Logic Member=Component R33 62
+Added Member To Class: ClassName=Main_Logic Member=Component R34 62
+Added Member To Class: ClassName=Main_Logic Member=Component R35 62
+Added Member To Class: ClassName=Main_Logic Member=Component R36 62
+Added Member To Class: ClassName=Main_Logic Member=Component R38 62
+Added Member To Class: ClassName=Main_Logic Member=Component R39 62
+Added Member To Class: ClassName=Main_Logic Member=Component R40 62
+Added Member To Class: ClassName=Main_Logic Member=Component R41 10K
+Added Member To Class: ClassName=Main_Logic Member=Component R42 10K
+Added Member To Class: ClassName=Main_Logic Member=Component SW1 PTS647SM38SMTR2LFS
+Added Member To Class: ClassName=Main_Logic Member=Component SW2 EVP-AKE31A
+Added Member To Class: ClassName=Main_Logic Member=Component SW3 EVP-AKE31A
+Added Member To Class: ClassName=Main_Logic Member=Component SW4 EVP-AKE31A
+Added Member To Class: ClassName=Main_Logic Member=Component U5 Decoder - AN
+Added Member To Class: ClassName=Main_Logic Member=Component U6 Decoder - AN

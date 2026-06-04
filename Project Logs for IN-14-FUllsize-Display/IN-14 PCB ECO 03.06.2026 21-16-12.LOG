@@ -1,0 +1,27 @@
+Added Pin To Net: NetName=NetQ29_1 Pin=R39-2
+Added Pin To Net: NetName=NetQ27_1 Pin=R40-1
+Added Pin To Net: NetName=GND Pin=R40-2
+Added Pin To Net: NetName=NetQ28_1 Pin=R41-1
+Added Pin To Net: NetName=GND Pin=R41-2
+Added Pin To Net: NetName=NetQ29_1 Pin=R42-1
+Added Pin To Net: NetName=GND Pin=R42-2
+Added Pin To Net: NetName=VDD33 Pin=R43-1
+Added Pin To Net: NetName=1BTN Pin=R43-2
+Added Pin To Net: NetName=VDD33 Pin=R44-1
+Added Pin To Net: NetName=2BTN Pin=R44-2
+Added Pin To Net: NetName=VDD33 Pin=R45-1
+Added Pin To Net: NetName=3BTN Pin=R45-2
+Added Pin To Net: NetName=VDD33 Pin=R46-1
+Added Pin To Net: NetName=4BTN Pin=R46-2
+Added Pin To Net: NetName=GND Pin=SW6-1
+Added Pin To Net: NetName=GND Pin=SW6-2
+Added Pin To Net: NetName=NetC15_2 Pin=SW6-3
+Added Pin To Net: NetName=NetC15_2 Pin=SW6-4
+Change Net Name : Old Net Name=NetC15_2 New Net Name=EnBTN
+Add Class Member: Failed to add class member : Component mcu-1 ESP32-WROOM-32U (16MB)
+Added Member To Class: ClassName=Main_Logic Member=Component PW1 TD62783AFG
+Added Member To Class: ClassName=Main_Logic Member=Component R43 10K
+Added Member To Class: ClassName=Main_Logic Member=Component R44 10K
+Added Member To Class: ClassName=Main_Logic Member=Component R45 10K
+Added Member To Class: ClassName=Main_Logic Member=Component R46 10K
+Added Member To Class: ClassName=Main_Logic Member=Component SW6 PTS647SM38SMTR2LFS

@@ -1,0 +1,11 @@
+Added Component: Designator=IN-7(IN-19A)
+Added Pin To Net: NetName=% Pin=IN-7-2
+Added Pin To Net: NetName=M Pin=IN-7-4
+Added Pin To Net: NetName=P Pin=IN-7-5
+Added Pin To Net: NetName=ml Pin=IN-7-6
+Added Pin To Net: NetName=NetIN-7_8 Pin=IN-7-8
+Added Pin To Net: NetName=K Pin=IN-7-10
+Added Pin To Net: NetName=n Pin=IN-7-11
+Added Pin To Net: NetName=u Pin=IN-7-12
+Added Pin To Net: NetName=C Pin=IN-7-14
+Added Member To Class: ClassName=Lamp Member=Component IN-7 IN-19A

@@ -1,0 +1,61 @@
+Removed Member From Class: ClassName=Main_Logic Member=C2
+Removed Member From Class: ClassName=Main_Logic Member=C5
+Removed Member From Class: ClassName=Main_Logic Member=C6
+Removed Member From Class: ClassName=Main_Logic Member=C7
+Removed Member From Class: ClassName=Main_Logic Member=C8
+Removed Member From Class: ClassName=Main_Logic Member=C11
+Removed Member From Class: ClassName=Main_Logic Member=C12
+Removed Member From Class: ClassName=Main_Logic Member=R1
+Removed Member From Class: ClassName=Main_Logic Member=R2
+Removed Member From Class: ClassName=Main_Logic Member=R3
+Removed Member From Class: ClassName=Main_Logic Member=R4
+Removed Member From Class: ClassName=Main_Logic Member=R5
+Removed Member From Class: ClassName=Main_Logic Member=R6
+Removed Member From Class: ClassName=Main_Logic Member=R7
+Removed Member From Class: ClassName=Main_Logic Member=R8
+Removed Member From Class: ClassName=Main_Logic Member=R9
+Removed Member From Class: ClassName=Main_Logic Member=R10
+Removed Member From Class: ClassName=Main_Logic Member=R11
+Removed Member From Class: ClassName=Main_Logic Member=R12
+Removed Member From Class: ClassName=Main_Logic Member=R13
+Removed Member From Class: ClassName=Main_Logic Member=R14
+Removed Member From Class: ClassName=Main_Logic Member=U2
+Removed Member From Class: ClassName=Main_Logic Member=U3
+Added Component: Designator=IN-7(IN-19A)
+Added Pin To Net: NetName=NetIN-7_8 Pin=IN-7-8
+Added Member To Class: ClassName=Power Member=Component C10 100uF 50V
+Added Member To Class: ClassName=Main_Logic Member=Component C13 10uF
+Added Member To Class: ClassName=Main_Logic Member=Component C14 0.1uF
+Added Member To Class: ClassName=Main_Logic Member=Component C15 1uF
+Added Member To Class: ClassName=Main_Logic Member=Component C16 100nF
+Added Member To Class: ClassName=Main_Logic Member=Component C17 100nF
+Added Member To Class: ClassName=Main_Logic Member=Component C18 100nF
+Added Member To Class: ClassName=Main_Logic Member=Component C19 100nF
+Added Member To Class: ClassName=Main_Logic Member=Component C20 100nF
+Added Member To Class: ClassName=Lamp Member=Component IN-7 IN-19A
+Added Member To Class: ClassName=Main_Logic Member=Component PW3 TD62783AFG
+Added Member To Class: ClassName=Lamp Member=Component Q8 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q9 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q11 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q13 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q15 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q17 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q23 140817142400
+Added Member To Class: ClassName=Main_Logic Member=Component R21 62
+Added Member To Class: ClassName=Main_Logic Member=Component R22 62
+Added Member To Class: ClassName=Main_Logic Member=Component R23 62
+Added Member To Class: ClassName=Main_Logic Member=Component R24 62
+Added Member To Class: ClassName=Main_Logic Member=Component R25 62
+Added Member To Class: ClassName=Main_Logic Member=Component R26 62
+Added Member To Class: ClassName=Main_Logic Member=Component R27 62
+Added Member To Class: ClassName=Main_Logic Member=Component R28 62
+Added Member To Class: ClassName=Main_Logic Member=Component R29 62
+Added Member To Class: ClassName=Main_Logic Member=Component R30 62
+Added Member To Class: ClassName=Main_Logic Member=Component R31 62
+Added Member To Class: ClassName=Main_Logic Member=Component R32 62
+Added Member To Class: ClassName=Main_Logic Member=Component R33 62
+Added Member To Class: ClassName=Main_Logic Member=Component R34 62
+Added Member To Class: ClassName=Main_Logic Member=Component R37 62
+Added Member To Class: ClassName=Main_Logic Member=Component SW5 EVP-AKE31A
+Added Member To Class: ClassName=Main_Logic Member=Component U4 Decoder - CT
+Added Member To Class: ClassName=Main_Logic Member=Component U5 Decoder - AN

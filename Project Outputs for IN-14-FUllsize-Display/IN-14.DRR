@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: IN-14.PcbDoc   01.02.2026  22:03:39
+NCDrill File Report For: IN-14.PcbDoc   04.04.2026  21:02:06
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,15 +7,15 @@ ASCII RoundHoles File : IN-14.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             127       PTH        699.58mm (27.54inch)
-T2      0.55mm (22mil)                                            Round             8         PTH        51.70mm (2.04inch)
-T3      0.762mm (30mil)                                           Round             78        PTH        319.14mm (12.56inch)
+T1      0.3mm (12mil)                                             Round             148       PTH        854.54mm (33.64inch)
+T2      0.55mm (22mil)                                            Round             8         PTH        43.70mm (1.72inch)
+T3      0.762mm (30mil)                                           Round             92        PTH        359.22mm (14.14inch)
 T4      0.8mm (31mil)                                             Round             6         PTH        41.75mm (1.64inch)
-T5      0.89mm (35mil)                                            Round             12        PTH        148.14mm (5.83inch)
-T6      0.9mm (35mil)                                             Round             48        PTH        132.06mm (5.20inch)
+T5      0.89mm (35mil)                                            Round             5         PTH        115.00mm (4.53inch)
+T6      0.9mm (35mil)                                             Round             72        PTH        238.60mm (9.39inch)
 T7      1.05mm (41mil)                                            Round             2         PTH        10.88mm (0.43inch)
-T8      2.2mm (87mil)                                             Round             4         PTH        336.00mm (13.23inch)
+T8      2.2mm (87mil)                                             Round             4         PTH        396.00mm (15.59inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              285
+Totals                                                                              337
 
-Total Processing Time (hh:mm:ss) : 00:00:01
+Total Processing Time (hh:mm:ss) : 00:00:00

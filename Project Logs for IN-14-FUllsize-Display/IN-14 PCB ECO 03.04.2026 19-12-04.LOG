@@ -1,0 +1,161 @@
+Removed Pin From Net: NetName=GND Pin=Q19-3
+Removed Pin From Net: NetName=R Pin=Q19-4
+Removed Pin From Net: NetName=GND Pin=Q20-3
+Removed Pin From Net: NetName=G Pin=Q20-4
+Removed Pin From Net: NetName=GND Pin=Q21-3
+Removed Pin From Net: NetName=B Pin=Q21-4
+Removed Member From Class: ClassName=Lamp Member=Q19
+Removed Member From Class: ClassName=Lamp Member=Q20
+Removed Member From Class: ClassName=Lamp Member=Q21
+Added Component: Designator=D10(FP-AAA3528LSEEZGKQBKS-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "PLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "465nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "30mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "2mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "120°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(FP-PG-SOT23-3-IPC_C)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "600mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "-20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "400mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Threshold Voltage"; Value = "-1.5V"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(FP-PG-SOT23-3-IPC_C)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "600mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "-20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "400mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Threshold Voltage"; Value = "-1.5V"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(FP-PG-SOT23-3-IPC_C)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "600mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "-20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "400mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Threshold Voltage"; Value = "-1.5V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=B Pin=D10-1
+Added Pin To Net: NetName=VCC5 Pin=D10-2
+Added Pin To Net: NetName=G Pin=D10-3
+Added Pin To Net: NetName=R Pin=D10-4
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=B Pin=Q?-3
+Added Pin To Net: NetName=G Pin=Q?-3
+Added Pin To Net: NetName=R Pin=Q?-3
+Add Net: Net with name "NetPW?_1" already exists
+Add Net: Net with name "NetPW?_1" already exists
+Add Net: Net with name "NetPW?_1" already exists
+Add Net: Net with name "NetPW?_2" already exists
+Add Net: Net with name "NetPW?_2" already exists
+Add Net: Net with name "NetPW?_3" already exists
+Add Net: Net with name "NetPW?_3" already exists
+Add Net: Net with name "NetPW?_4" already exists
+Add Net: Net with name "NetPW?_4" already exists
+Add Net: Net with name "NetPW?_5" already exists
+Add Net: Net with name "NetPW?_5" already exists
+Add Net: Net with name "NetPW?_6" already exists
+Add Net: Net with name "NetPW?_6" already exists
+Add Net: Net with name "NetPW?_7" already exists
+Add Net: Net with name "NetPW?_7" already exists
+Add Net: Net with name "NetPW?_8" already exists
+Add Net: Net with name "NetPW?_8" already exists
+Add Net: Net with name "NetPW?_11" already exists
+Add Net: Net with name "NetPW?_11" already exists
+Add Net: Net with name "NetPW?_12" already exists
+Add Net: Net with name "NetPW?_12" already exists
+Add Net: Net with name "NetPW?_13" already exists
+Add Net: Net with name "NetPW?_13" already exists
+Add Net: Net with name "NetPW?_14" already exists
+Add Net: Net with name "NetPW?_14" already exists
+Add Net: Net with name "NetPW?_15" already exists
+Add Net: Net with name "NetPW?_15" already exists
+Add Net: Net with name "NetPW?_16" already exists
+Add Net: Net with name "NetPW?_16" already exists
+Add Net: Net with name "NetPW?_17" already exists
+Add Net: Net with name "NetPW?_17" already exists
+Add Net: Net with name "NetPW?_18" already exists
+Add Net: Net with name "NetPW?_18" already exists
+Add Net: Net with name "NetPW?_18" already exists
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R31-2
+Added Pin To Net: NetName=NetQ?_1 Pin=R34-1
+Added Net: Name=NetQ?_1
+Add Net: Net with name "NetQ?_1" already exists
+Add Net: Net with name "NetQ?_1" already exists
+Added Member To Class: ClassName=Main_Logic Member=Component C? 100nF
+Added Member To Class: ClassName=Main_Logic Member=Component C? 1uF
+Added Member To Class: ClassName=Main_Logic Member=Component C? 0.1uF
+Added Member To Class: ClassName=Main_Logic Member=Component C? 100nF
+Added Member To Class: ClassName=Main_Logic Member=Component C? 100nF
+Added Member To Class: ClassName=Main_Logic Member=Component C? 10uF
+Added Member To Class: ClassName=Main_Logic Member=Component C? 100nF
+Added Member To Class: ClassName=Main_Logic Member=Component C? 100nF
+Added Member To Class: ClassName=Lamp Member=Component D10 AAA3528LSEEZGKQBKS
+Added Member To Class: ClassName=Main_Logic Member=Component PW? TD62783AFG
+Added Member To Class: ClassName=Main_Logic Member=Component PW? TD62783AFG
+Added Member To Class: ClassName=Main_Logic Member=Component PW? TD62783AFG
+Added Member To Class: ClassName=Lamp Member=Component Q? 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q? IRLML6344
+Added Member To Class: ClassName=Lamp Member=Component Q? 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q? 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q? 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q? 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q? 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q? IRLML6344
+Added Member To Class: ClassName=Lamp Member=Component Q? 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q? 140817142400
+Added Member To Class: ClassName=Lamp Member=Component Q? IRLML6344
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 10k
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 10K
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 10K
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component R? 62
+Added Member To Class: ClassName=Main_Logic Member=Component SW? EVP-AKE31A
+Added Member To Class: ClassName=Main_Logic Member=Component SW? EVP-AKE31A
+Added Member To Class: ClassName=Main_Logic Member=Component SW? EVP-AKE31A
+Added Member To Class: ClassName=Main_Logic Member=Component SW? EVP-AKE31A
+Added Member To Class: ClassName=Main_Logic Member=Component U? Decoder - CT
+Added Member To Class: ClassName=Main_Logic Member=Component U? Decoder - AN
