@@ -1,0 +1,71 @@
+Removed Member From Class: ClassName=Main_Logic Member=R43
+Removed Member From Class: ClassName=Main_Logic Member=R44
+Removed Member From Class: ClassName=Main_Logic Member=R45
+Removed Member From Class: ClassName=Main_Logic Member=R46
+Removed Member From Class: ClassName=Lamp Member=R47
+Change Component Footprint: Designator=U4 Old Footprint=NT0024A New Footprint=SO24_74HCT_NEX
+Change Component Footprint: Designator=U5 Old Footprint=NT0024A New Footprint=SO24_74HCT_NEX
+Change Component Footprint: Designator=U6 Old Footprint=NT0024A New Footprint=SO24_74HCT_NEX
+Change Component Comment : Designator=U5 Old Comment=Decoder - AN New Comment=74HC4514D
+Change Component Comment : Designator=U6 Old Comment=Decoder - AN New Comment=74HC4514D
+Change Component Comment : Designator=U4 Old Comment=Decoder - CT New Comment=74HC4514D
+Change Component Designator: OldDesignator=R26 NewDesignator=R27
+Change Component Designator: OldDesignator=R27 NewDesignator=R30
+Change Component Designator: OldDesignator=R28 NewDesignator=R31
+Change Component Designator: OldDesignator=R29 NewDesignator=R32
+Change Component Designator: OldDesignator=R30 NewDesignator=R33
+Change Component Designator: OldDesignator=R31 NewDesignator=R35
+Change Component Designator: OldDesignator=R32 NewDesignator=R36
+Change Component Designator: OldDesignator=R33 NewDesignator=R37
+Change Component Designator: OldDesignator=R34 NewDesignator=R38
+Change Component Designator: OldDesignator=R35 NewDesignator=R39
+Change Component Designator: OldDesignator=R36 NewDesignator=R40
+Change Component Designator: OldDesignator=R37 NewDesignator=R44
+Change Component Designator: OldDesignator=R38 NewDesignator=R45
+Change Component Designator: OldDesignator=R39 NewDesignator=R46
+Change Component Designator: OldDesignator=R40 NewDesignator=R47
+Change Component Designator: OldDesignator=R41 NewDesignator=R48
+Change Component Designator: OldDesignator=R42 NewDesignator=R49
+Change Component Designator: OldDesignator=R43 NewDesignator=R26
+Change Component Designator: OldDesignator=R44 NewDesignator=R28
+Change Component Designator: OldDesignator=R45 NewDesignator=R29
+Change Component Designator: OldDesignator=R46 NewDesignator=R34
+Change Component Designator: OldDesignator=R47 NewDesignator=R41
+Change Component Designator: OldDesignator=R48 NewDesignator=R42
+Change Component Designator: OldDesignator=R49 NewDesignator=R43
+Change Component Designator: OldDesignator=SW2 NewDesignator=SW3
+Change Component Designator: OldDesignator=SW3 NewDesignator=SW4
+Change Component Designator: OldDesignator=SW4 NewDesignator=SW5
+Change Component Designator: OldDesignator=SW5 NewDesignator=SW6
+Change Component Designator: OldDesignator=SW6 NewDesignator=SW2
+Change Managed Component Library Link : Designator=U4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=3D67AC7F-8136-4A9B-AE6F-B8398775BEF2 New ItemGUID= Old RevisionGUID=54627C1E-C753-4BE3-B070-A53B6317204C New RevisionGUID=
+Change Managed Component Library Link : Designator=U5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=3D67AC7F-8136-4A9B-AE6F-B8398775BEF2 New ItemGUID= Old RevisionGUID=54627C1E-C753-4BE3-B070-A53B6317204C New RevisionGUID=
+Change Managed Component Library Link : Designator=U6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=3D67AC7F-8136-4A9B-AE6F-B8398775BEF2 New ItemGUID= Old RevisionGUID=54627C1E-C753-4BE3-B070-A53B6317204C New RevisionGUID=
+Change component parameters: Designator = "U4" ("U4"); Footprint = "NT0024A"; UniqueID = "\BVQVEOGL" ("\BVQVEOGL")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74HC4514D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5" ("U5"); Footprint = "NT0024A"; UniqueID = "\FZLRFKAZ" ("\FZLRFKAZ")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74HC4514D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6" ("U6"); Footprint = "NT0024A"; UniqueID = "\CZZAONJL" ("\CZZAONJL")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74HC4514D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=S1 Pin=Q19-1
+Added Pin To Net: NetName=GND Pin=Q19-2
+Added Pin To Net: NetName=GND Pin=Q19-3
+Added Pin To Net: NetName=C Pin=Q19-4
+Added Member To Class: ClassName=Lamp Member=Component Q19 140817142400
+Added Member To Class: ClassName=Main_Logic Member=Component R37 62
+Added Member To Class: ClassName=Main_Logic Member=Component R38 62
+Added Member To Class: ClassName=Main_Logic Member=Component R39 10K
+Added Member To Class: ClassName=Main_Logic Member=Component R40 10K
+Added Member To Class: ClassName=Lamp Member=Component R49 10k

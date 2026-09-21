@@ -322,6 +322,23 @@ GenerateClassCluster=0
 DocumentUniqueId=XTHZOTEH
 
 [Document17]
+DocumentPath=74HC4514D.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=COHNTVLT
+
+[Document18]
 DocumentPath=UGO.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YCLUXKUU
 
-[Document18]
+[Document19]
 DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +372,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NUIQWFLF
 
-[Document19]
+[Document20]
+DocumentPath=74HC4514D.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HQPBDSIY
+
+[Document21]
 DocumentPath=SOP127P1030X245-18N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WEKBJOSI
 
-[Document20]
+[Document22]
 DocumentPath=..\Eric\Desktop\SOP127P1030X245-18N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WEKBJOSI
 
-[Document21]
+[Document23]
 DocumentPath=..\Eric\Desktop\SAMTEC-TMM-107-01-X-S\SAMTEC-TMM-107-01-X-S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PUMGGKOY
 
-[Document22]
+[Document24]
 DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BPJFQDOY
 
-[Document23]
+[Document25]
 DocumentPath=Main_Logic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TNDOXDBC
 
-[Document24]
+[Document26]
 DocumentPath=Lamp.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SPMCZNWB
 
-[Document25]
+[Document27]
 DocumentPath=CAMtastic12.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document28]
 DocumentPath=CAMtastic13.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document29]
 DocumentPath=CAMtastic14.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document30]
 DocumentPath=CAMtastic15.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document31]
 DocumentPath=CAMtastic16.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document32]
 DocumentPath=CAMtastic17.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document33]
 DocumentPath=CAMtastic18.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document34]
 DocumentPath=IN-14_moduling.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
